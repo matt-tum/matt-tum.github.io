@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://00000000014A6343.pages.gitlab.lrz.de/alumni-network"
 title = "MCTS Alumni Network"
 theme = "twenty-twenty-hugo"
 languageName = "En"
