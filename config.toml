@@ -43,25 +43,25 @@ name = "About"
 URL = "about"
 weight = 2
 
-[[menu.main]]
-name = "Blog"
-URL = "blog"
-weight = 3
+# [[menu.main]]
+# name = "Blog"
+# URL = "blog"
+# weight = 3
 
-[[menu.main]]
-name = "Contact"
-URL = "contact"
-weight = 4
+# [[menu.main]]
+# name = "Contact"
+# URL = "contact"
+# weight = 4
 
-[[menu.main]]
-name = "Sample Page"
-URL = "sample-page"
-weight = 5
+# [[menu.main]]
+# name = "Sample Page"
+# URL = "sample-page"
+# weight = 5
 
 # only desktop menu
 [[menu.desktop]]
-name = "Contact"
-URL = "contact"
+name = "Take the survey"
+URL = "https://evasys.zv.tum.de/evasys/online.php?p=MCTSAlumni"
 weight = 1
 
 
@@ -69,7 +69,7 @@ weight = 1
 [params]
 # Meta data
 description = "Tell us how your alumni network should be!"
-author = "Themefisher"
+author = "Matthias Meller"
 
 # cookies
 [params.cookies]
@@ -110,7 +110,7 @@ title = "About This Site"
 content = "This may be a good place to introduce yourself and your site or include some credits."
 address = "123 Main Street <br> New York, NY 10001"
 hours = "Monday–Friday: 9:00AM–5:00PM <br> Saturday & Sunday: 11:00AM–3:00PM"
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com) ported from [WordPress Twenty Twenty](https://github.com/WordPress/twentytwenty)"
+copyright = "Copyright &copy; 2020. Made with [hugo](https://gohugo.io) and [Twenty Twenty theme](https://themes.gohugo.io/twenty-twenty-hugo/)"
 
 ############################# social site ########################
 [params.social]
