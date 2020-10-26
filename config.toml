@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://00000000014A6343.pages.gitlab.lrz.de/alumni-network"
-title = "MCTS Alumni Network"
+title = "STS-Munich.de"
 theme = "twenty-twenty-hugo"
 languageName = "En"
 languageCode = "en-us"
@@ -60,7 +60,7 @@ weight = 2
 
 # only desktop menu
 [[menu.desktop]]
-name = "Take the survey"
+name = "Take the survey!"
 URL = "https://evasys.zv.tum.de/evasys/online.php?p=MCTSAlumni"
 weight = 1
 
@@ -73,7 +73,7 @@ author = "Matthias Meller"
 
 # cookies
 [params.cookies]
-enable = true
+enable = false
 expire_days = 2
 
 # banner
@@ -83,19 +83,19 @@ image = "images/title-image.jpg"
 
 # blog
 [params.blog]
-heading = "We believe students and PhDs at Munich Center for Technology in Society, whether past or present, need a space to connect beyond university. That's why we started this initiative for an alumni network."
+heading = "We believe students, PhDs and alumni of the <b style='color:#0076bb'>Munich Center for Technology in Society</b> need a space to connect beyond university and to bring the best of STS into the world. </br> </br> Let's create our alumni network together."
 
 # call to action
 [params.call_to_action]
 enable = true
 title = "Tell us how your alumni network should be."
-content = "We've laid the ground to officially found the MCTS Alumni Network as legally recognised association ('Verein'). Now we need you: your ideas and your support to build up a strong network."
+content = "Now we need you: your ideas, your support, your membership to get the alumni network off the ground. Take the survey and let us know what you expect from an alumni network and which activities you would like to see." 
 button_label = "Take the survey"
 button_url = "https://evasys.zv.tum.de/evasys/online.php?p=MCTSAlumni"
 
 # gallery
 [params.gallery]
-enable = true
+enable = false
 
 [[params.gallery.gallery_item ]]
 image = "images/2020-square-2.png"
@@ -106,17 +106,17 @@ image = "images/2020-square-1.png"
 
 # footer
 [params.footer]
-title = "About This Site"
-content = "This may be a good place to introduce yourself and your site or include some credits."
-address = "123 Main Street <br> New York, NY 10001"
-hours = "Monday–Friday: 9:00AM–5:00PM <br> Saturday & Sunday: 11:00AM–3:00PM"
-copyright = "Copyright &copy; 2020. Made with [hugo](https://gohugo.io) and [Twenty Twenty theme](https://themes.gohugo.io/twenty-twenty-hugo/)"
+title = "What's next: Join us!"
+content = "To get this initiative truly started we need motivated and diverse group of founding members. Want to join? Write us a quick <i>Like!</i> to <a href='mailto:alumni-network@mcts.tum.de'>alumni-network@mcts.tum.de</a>. <br><br> Also, don't miss our <b>Info Call via Zoom</b> on 12th November 2020 @ 8 pm."
+# address = "123 Main Street <br> New York, NY 10001"
+# hours = "Monday–Friday: 9:00AM–5:00PM <br> Saturday & Sunday: 11:00AM–3:00PM"
+# copyright = "&copy; 2020. Made with [Hugo](https://gohugo.io), [Twenty Twenty Theme](https://themes.gohugo.io/twenty-twenty-hugo/) and much ♥︎ from Matt, Dominik & Fabian."
 
 ############################# social site ########################
 [params.social]
-yelp = "#"
-facebook = "#"
-twitter = "#"
-instagram = "#"
-email = "#"
-linkedin = "#"
+# yelp = "#"
+# facebook = "#"
+# twitter = "#"
+# instagram = "#"
+email = "alumni-network@mcts.tum.de"
+# linkedin = "#"
