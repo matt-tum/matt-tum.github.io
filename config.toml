@@ -43,10 +43,10 @@ name = "About"
 URL = "about"
 weight = 2
 
-# [[menu.main]]
-# name = "Impressum / Privacy Policy"
-# URL = "sample-page"
-# weight = 3
+[[menu.main]]
+name = "Impressum"
+URL = "impressum"
+weight = 3
 
 # [[menu.main]]
 # name = "Contact"
