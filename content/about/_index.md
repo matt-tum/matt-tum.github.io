@@ -35,6 +35,6 @@ Up until recently, we've completed the early preparations by involving stakehold
 Now it's time for *Phase 1* and your involvement: to found an association we not only legally need at least 7 people. Most importantly, we need your support and ideas how this alumni network should look like. Our aim is to found the alumni network by the end of 2020 / early 2021.
 
 
-### Who is we?
+### Who are we?
 
-We are Dominik Wedber, RESET '19, Fabian Kuntz, RESET '18, and Matthias Meller, RESET '20. Right before the pandemic got started we came together to brainstorm about ways to foster a long-lasting exchange of alumni and current students as well as PhDs of the MCTS — basically, how to hold the MCTS family together in the longterm. Inspired by the successful example of an alumni network of our previous studies we started this initiative.
+We are Dominik Wedber, RESET '19, Fabian Kuntz, RESET '18, and Matthias Meller, RESET '20. Right before the pandemic got started we came together to brainstorm about ways to foster a long-lasting exchange of alumni and current students as well as PhDs of the MCTS — basically, how to hold the MCTS family together in the longterm. Inspired by the successful example of an alumni network of our previous studies we started this initiative. <br><br>Please don't hesitate to get in touch with us at <a href='mailto:alumni-network@mcts.tum.de'>alumni-network@mcts.tum.de</a>!
