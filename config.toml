@@ -60,8 +60,8 @@ weight = 3
 
 # only desktop menu
 [[menu.desktop]]
-name = "Take the survey!"
-URL = "https://evasys.zv.tum.de/evasys/online.php?p=MCTSAlumni"
+name = "Join our Zoom call on Nov 12!"
+URL = "https://tum-conf.zoom.us/j/99102385126"
 weight = 1
 
 
@@ -79,7 +79,7 @@ expire_days = 2
 # banner
 [params.banner]
 heading = "How would you like your alumni network to be?"
-image = "images/title-image.jpg"
+image = "images/title-image-kickoff-meeting.jpg"
 
 # blog
 [params.blog]
@@ -88,12 +88,13 @@ heading = "We believe students, PhDs and alumni of the Munich Center for Technol
 # call to action
 [params.call_to_action]
 enable = true
-title = "Tell us how your alumni network should be."
-content = "Answer just a few question to let us know what you expect from an alumni network and which activities you would like to see. The results from the survey will be the basis for the founding team, <b>to which everyone is invited</b>, to get the alumni network off the ground. Also, check out the <a href='/alumni-network/about'>About</a> page!"
+title = "Join our virtual kick-off meeting on Nov 12!"
+content = "We'll host our first meeting over Zoom on November 12, 8-9 pm. Dominic, Fabian and Matt will quickly introduce you to the idea of creating an alumni network, the steps they have taken so far and of course have ample time for your input and questions. At the end of the meeting we want to have assembled a strong founding team and identify the actions for the following weeks. <br><br><b>Passcode: 857972</b>"
 
+#"Answer just a few question to let us know what you expect from an alumni network and which activities you would like to see. The results from the survey will be the basis for the founding team, <b>to which everyone is invited</b>, to get the alumni network off the ground. Also, check out the <a href='/alumni-network/about'>About</a> page!"
 # "Now we need you: your ideas, your support, your membership to get the alumni network off the ground. Take the survey and let us know what you expect from an alumni network and which activities you would like to see." 
-button_label = "Take the survey"
-button_url = "https://evasys.zv.tum.de/evasys/online.php?p=MCTSAlumni"
+button_label = "Join the Zoom call"
+button_url = "https://tum-conf.zoom.us/j/99102385126"
 
 # gallery
 [params.gallery]
@@ -110,7 +111,7 @@ image = "images/2020-square-1.png"
 [params.footer]
 title = "What's next: Join us!"
 content = "Now we need you: your ideas, your support and your membership. To get this initiative truly started <b>we need a motivated and diverse group of founding members</b>. Check out the <a href='/alumni-network/about'>About</a> page here. <br><br> Want to join? Write us a quick <i>Like!</i> to <a href='mailto:alumni-network@mcts.tum.de'>alumni-network@mcts.tum.de</a>."
-address = "1st Info Call @ 8 pm via Zoom <br> <i>A reminder e-mail will be sent out beforehand</i>"
+address = "Virtual Kick-off @ 8 pm via Zoom <br> <i><a href='https://tum-conf.zoom.us/j/99102385126'>Click here to join the call</a> — the passcode is <b>857972</b></i>"
 # hours = "Monday–Friday: 9:00AM–5:00PM <br> Saturday & Sunday: 11:00AM–3:00PM"
 copyright = "&copy; 2020. Made with [Hugo](https://gohugo.io), [Twenty Twenty Theme](https://themes.gohugo.io/twenty-twenty-hugo/) and much ♥︎ from Matt, Dominik & Fabian."
 
