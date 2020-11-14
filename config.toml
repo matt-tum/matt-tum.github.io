@@ -89,7 +89,7 @@ heading = "We believe students, PhDs and alumni of the Munich Center for Technol
 [params.call_to_action]
 enable = true
 title = "Thank you for having been at our virtual kick-off"
-content = "We're thrilled and honoured that so many of you took the time to join us on November 12 for our virtual kick-off meeting. You couldn't make it? No worries, we'd be glad if you contribute nonetheless. Click below to join our WhatsApp channel in which we'll organise ourselves for the next steps ahead and getting the Alumni Network off the ground. <br><br> Also, if you like take a look at the slides from the kick-off meeting: <br> <i><a href='static/files/2020-11-12_MCTS Alumni Network_Kick-off_optimised.pdf'>Download the slides</a></i>"
+content = "We're thrilled and honoured that so many of you took the time to join us on November 12 for our virtual kick-off meeting. You couldn't make it? No worries, we'd be glad if you contribute nonetheless. Click below to join our WhatsApp channel in which we'll organise ourselves for the next steps ahead and getting the Alumni Network off the ground. <br><br> Also, if you like take a look at the slides from the kick-off meeting: <br> <i><a href='files/2020-11-12_MCTS Alumni Network_Kick-off_optimised.pdf'>Download the slides</a></i>"
 button_label = "Join WhatsApp Group"
 button_url = "https://chat.whatsapp.com/D1sEN1a70aFBdRDYTqkqyD"
 
