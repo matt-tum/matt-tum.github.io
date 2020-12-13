@@ -5,13 +5,13 @@ theme = "twenty-twenty-hugo"
 languageName = "En"
 languageCode = "en-us"
 # post pagination
-paginate = "6"
+paginate = "4"
 # post excerpt
 summaryLength = "10"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
-disableLanguages = [] # desable language from here
+disableLanguages = [] # disable language from here
 # google analytics
 googleAnalytics = "" # example : UA-123-45
 
@@ -60,7 +60,7 @@ weight = 3
 
 # only desktop menu
 [[menu.desktop]]
-name = "What's this about?"
+name = "Our Roadmap"
 URL = "/about"
 weight = 1
 
@@ -68,7 +68,7 @@ weight = 1
 #################### default parameters ################################
 [params]
 # Meta data
-description = "Tell us how your alumni network should be!"
+description = "Getting the MCTS Alumni Network started."
 author = "Matthias Meller"
 
 # cookies
@@ -78,8 +78,8 @@ expire_days = 2
 
 # banner
 [params.banner]
-heading = "How would you like your alumni network to be?"
-image = "images/title-image-kickoff-meeting.jpg"
+heading = "MCTS Alumni Network initiative has started!"
+image = "images/title-image-zoom-christmas.png"
 
 # blog
 [params.blog]
@@ -88,10 +88,10 @@ heading = "We believe students, PhDs and alumni of the Munich Center for Technol
 # call to action
 [params.call_to_action]
 enable = true
-title = "Thank you for having been at our virtual kick-off"
-content = "We're thrilled and honoured that so many of you took the time to join us on November 12 for our virtual kick-off meeting. You couldn't make it? No worries, we'd be glad if you contribute nonetheless. Click below to join our WhatsApp channel in which we'll organise ourselves for the next steps ahead and getting the Alumni Network off the ground. <br><br> Also, if you like take a look at the slides from the kick-off meeting: <br> <i><a href='files/2020-11-12_MCTS Alumni Network_Kick-off_optimised.pdf'>Download the slides</a></i>"
-button_label = "Join WhatsApp Group"
-button_url = "https://chat.whatsapp.com/D1sEN1a70aFBdRDYTqkqyD"
+title = "Join our virtual MCTS Christmas Party on Dec 18"
+content = "No, not another Zoom call, but an entire online Christmas Party venue just for us! Even though we can't enjoy Glühwein or Punsch in person this year, together with the staff of MCTS, we're hosting a <b>virtual Christmas Party</b>.<br><br>Join us starting from 7:30 pm for conversations, fun activities or games. Decorate your desks at home, prepare snacks, drinks — we'll see us online!<br><br><i>We're using the tool <a href='https://wonder.me'>wonder.me</a>, a Germany-based tool for creating virtual meeting spaces. Please review its <a href='https://www.wonder.me/privacy-policy'>privacy policy</a> (and <a href='https://support.wonder.me/hc/en-us/articles/360013622577-Privacy-Security-FAQs'>FAQ</a>) prior to joining.</i>"
+button_label = "🎄 Join The Party 🎄"
+button_url = "https://www.wonder.me/r?id=02418b2b-e994-4a0c-85b8-dc060e700347"
 
 # gallery
 [params.gallery]
@@ -106,11 +106,11 @@ image = "images/2020-square-1.png"
 
 # footer
 [params.footer]
-title = "What's next: Join us!"
-content = "Now we need you: your ideas, your support and your membership. To get this initiative truly started <b>we need a motivated and diverse group of founding members</b>. Check out the <a href='/alumni-network/about'>About</a> page here. <br><br> Want to join? Write us a quick <i>Like!</i> to <a href='mailto:alumni-network@mcts.tum.de'>alumni-network@mcts.tum.de</a>."
-address = "Virtual Kick-off @ 8 pm via Zoom"
+title = "Join the Project Team"
+content = "We want to establish the Alumni Network by March 2021 as legal association (<i>eingetragender Verein - e.V.</i>). Whether it's legal, future activities or communication, there are lots of ways to contribute (<a href='/alumni-network/about'>check our roadmap here</a>)<br><br><b>Join us!</b> Write us at <a href='mailto:alumni-network@mcts.tum.de'>alumni-network@mcts.tum.de</a> and you'll be invited to our Slack Workspace."
+address = "Virtual Christmas Party @ 7:30 pm via <a href='https://www.wonder.me/r?id=02418b2b-e994-4a0c-85b8-dc060e700347'>wonder.me</a>"
 # hours = "Monday–Friday: 9:00AM–5:00PM <br> Saturday & Sunday: 11:00AM–3:00PM"
-copyright = "&copy; 2020. Made with [Hugo](https://gohugo.io), [Twenty Twenty Theme](https://themes.gohugo.io/twenty-twenty-hugo/) and much ♥︎ from Matt, Dominik & Fabian."
+copyright = "&copy; 2020. Made with [Hugo](https://gohugo.io), [Twenty Twenty Theme](https://themes.gohugo.io/twenty-twenty-hugo/) and much ♥︎ from Munich."
 
 ############################# social site ########################
 [params.social]
