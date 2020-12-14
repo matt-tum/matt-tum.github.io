@@ -78,7 +78,7 @@ expire_days = 2
 
 # banner
 [params.banner]
-heading = "MCTS Alumni Network initiative has started!"
+heading = "The Alumni Network initiative has started!"
 image = "images/title-image-zoom-christmas.png"
 
 # blog
