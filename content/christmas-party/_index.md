@@ -25,7 +25,7 @@ Open this link to enter our Christmas Party online venue: <a href='https://www.w
 - Three STS & RESET alumni share a bit of their journeys since graduation
 - <b>Your opportunity to ask questions!</b>
 
-###### <p style='color:#0076bb'>8:00 — Opening of MCTS Christmas Party</p>
+###### <p style='color:#0076bb'>8:00 pm — Opening of MCTS Christmas Party</p>
 
 After a few warm welcome words by the MCTS community, feel free to discover the event space and join whatever area or conversation you prefer. We've setup various thematic tables / rooms where you can:
 
@@ -42,3 +42,28 @@ And of course mix and mingle all around, wonder.me allows you to easily jump fro
 ##### How-To: Wonder.me
 
 We're using the tool <a href='https://wonder.me'>wonder.me</a>, a Germany-based tool for creating virtual meeting spaces. Please review its <a href='https://www.wonder.me/privacy-policy'>privacy policy</a> (and <a href='https://support.wonder.me/hc/en-us/articles/360013622577-Privacy-Security-FAQs'>FAQ</a>) prior to joining.
+
+###### 1. Join link, enable / check camera and microphone
+
+Again, make sure to use Chrome or Safari, otherwise some features of wonder.me won't work. No worries, you also don't have download anything, it's all browser-based. Be sure to have a decent internet connection and connect your computer to power.
+
+![Enable camera and microphone](/alumni-network/images/01-wonder-enable-camera.png)
+
+###### 2. Enter your name and take a nice photo
+
+The photo is your avatar in wonder.me that allows others to spot you in our Christmas Party venue. Make sure to look stellar 😊
+
+![Enter your name, take a photo](/alumni-network/images/02-wonder-type-name.png)
+
+###### 3. Welcome to the Christmas Party space
+
+Make yourself at home, be sure everything works for you.
+
+![Overview](/alumni-network/images/03-wonder-overview.png)
+
+###### 4. Zoom in to explore …
+
+… who else is around and what tables or conversations you could join.
+
+![Zoom in](/alumni-network/images/04-wonder-zoom-in.png)
+
