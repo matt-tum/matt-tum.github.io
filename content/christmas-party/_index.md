@@ -67,3 +67,10 @@ Make yourself at home, be sure everything works for you.
 
 ![Zoom in](/alumni-network/images/04-wonder-zoom-in.png)
 
+***
+
+##### <p style='color:#cd2653'>"Emergency" Zoom-Meeting</p>
+
+In case wonder.me should fail for any reason we have setup a separate Zoom meeting as a fallback option. You can join without waiting for any host. We will try to look in between to make sure everyone was able to join wonder.me. <br><br>
+<b>Join Zoom meeting:</b> <a href='https://tum-conf.zoom.us/j/64156746879'>https://tum-conf.zoom.us/j/64156746879</a><br>
+<b>Password:</b> welcome!
