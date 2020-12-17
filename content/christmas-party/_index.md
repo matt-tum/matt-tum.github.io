@@ -13,7 +13,7 @@ This is to give you a quick overview what's planned plus a brief how-to for usin
 
 ##### 🎄 Joining the Christmas Party
 
-Open this link to enter our Christmas Party online venue: <a href='https://www.wonder.me/r?id=02418b2b-e994-4a0c-85b8-dc060e700347'>https://www.wonder.me/r?id=02418b2b-e994-4a0c-85b8-dc060e700347</a>. <br><br>You don't need a password. Please <b>use either Chrome or Safari</b> (on a desktop computer).
+Open this link to enter our Christmas Party online venue: <a href='https://www.wonder.me/r?id=02418b2b-e994-4a0c-85b8-dc060e700347'>https://www.wonder.me/r?id=02418b2b-e994-4a0c-85b8-dc060e700347</a>. <br><br>You don't need a password. Please <b>use either Chrome or Firefox</b> (on a desktop computer).<br><br>📆  Want to add the event to your digital calendar to get automatically get a reminder and have the link ready? Download the <a href='/alumni-network/files/2020-12-18_MCTS Community Christmas Party.ics'>.ics file here</a>. Also, here is the <a href='/alumni-network/files/2020-12-18_Christmas Party_Emergency Zoom.ics'>.ics file to the Zoom emergency meeting</a>.
 
 ##### 🧑‍🎄 The Program
 
