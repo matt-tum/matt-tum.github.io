@@ -15,6 +15,16 @@ This is to give you a quick overview what's planned plus a brief how-to for usin
 
 Open this link to enter our Christmas Party online venue: <a href='https://www.wonder.me/r?id=02418b2b-e994-4a0c-85b8-dc060e700347'>https://www.wonder.me/r?id=02418b2b-e994-4a0c-85b8-dc060e700347</a>. <br><br>You don't need a password. Please <b>use either Chrome or Firefox</b> (on a desktop computer).<br><br>📆  Want to add the event to your digital calendar to get automatically get a reminder and have the link ready? Download the <a href='/alumni-network/files/2020-12-18_MCTS Community Christmas Party.ics'>.ics file here</a>. Also, here is the <a href='/alumni-network/files/2020-12-18_Christmas Party_Emergency Zoom.ics'>.ics file to the Zoom emergency meeting</a>.
 
+***
+
+##### <p style='color:#cd2653'>"Emergency" Zoom-Meeting</p>
+
+In case wonder.me should fail for any reason we have setup a separate Zoom meeting as a fallback option. You can join without waiting for any host. We will try to look in between to make sure everyone was able to join wonder.me. <br><br>
+<b>Join Zoom meeting:</b> <a href='https://tum-conf.zoom.us/j/64156746879'>https://tum-conf.zoom.us/j/64156746879</a><br>
+<b>Password:</b> welcome!
+
+***
+
 ##### 🧑‍🎄 The Program
 
 ###### <p style='color:#0076bb'>7:30 pm — What happens to MCTS graduates when they "grow up"?</p>
@@ -67,10 +77,3 @@ Make yourself at home, be sure everything works for you.
 
 ![Zoom in](/alumni-network/images/04-wonder-zoom-in.png)
 
-***
-
-##### <p style='color:#cd2653'>"Emergency" Zoom-Meeting</p>
-
-In case wonder.me should fail for any reason we have setup a separate Zoom meeting as a fallback option. You can join without waiting for any host. We will try to look in between to make sure everyone was able to join wonder.me. <br><br>
-<b>Join Zoom meeting:</b> <a href='https://tum-conf.zoom.us/j/64156746879'>https://tum-conf.zoom.us/j/64156746879</a><br>
-<b>Password:</b> welcome!
