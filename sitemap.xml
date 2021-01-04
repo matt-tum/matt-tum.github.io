@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://matt-tum.gitlab.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://matt-tum.gitlab.io/author/</loc>
+  </url>
+  
+  <url>
+    <loc>https://matt-tum.gitlab.io/blog/</loc>
+  </url>
+  
+  <url>
+    <loc>https://matt-tum.gitlab.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://matt-tum.gitlab.io/christmas-party/</loc>
+  </url>
+  
+  <url>
+    <loc>https://matt-tum.gitlab.io/impressum/</loc>
+  </url>
+  
+  <url>
+    <loc>https://matt-tum.gitlab.io/sample-page/</loc>
+  </url>
+  
+  <url>
+    <loc>https://matt-tum.gitlab.io/</loc>
+  </url>
+  
+  <url>
+    <loc>https://matt-tum.gitlab.io/tags/</loc>
+  </url>
+  
+</urlset>
